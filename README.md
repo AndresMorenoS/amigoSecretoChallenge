@@ -9,6 +9,23 @@ Esta aplicación permite a los usuarios:
 * Realizar un sorteo aleatorio
 * Interfaz intuitiva y fácil de usar
 
+💡 Cómo Usar
+1. Agregar Participantes:
+
+  * Escribe el nombre en el campo de texto
+  * Presiona el botón "Añadir" o la tecla Enter
+
+2. Ver Lista:
+  * Los nombres aparecerán en una lista debajo
+  * Puedes agregar tantos participantes como desees 
+3. Realizar Sorteo:
+
+  * Con mínimo 2 participantes, presiona "Sortear amigo"
+  * ¡El resultado aparecerá instantáneamente!
+
+![image](https://github.com/user-attachments/assets/a01d3bad-41f5-4ded-8ada-3971335a6efa)
+
+
   
 🛠️ Tecnologías Utilizadas
  * HTML5
